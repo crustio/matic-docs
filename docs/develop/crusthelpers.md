@@ -16,13 +16,12 @@ image: https://matic.network/banners/matic-network-16x9.png
 The protocol matches people who have hard drive space to spare with those who need to store data or host content. Crust supports most smart contract platforms with its cross-chain solution, including Polygon. Find out all the platforms that Crust storage supports on their [official website](https://crust.network/).
 
 :::info Learn more about Crust
-Check its **[Decentralized Storage Market](https://wiki.crust.network/docs/en/DSM)** and **[Cross-chain Storage Solution](https://wiki.crust.network/docs/en/buildCrossChainSolution#ii-native-ipfs-integration)**. Also, you can start building with **[Crust Build-101](https://wiki.crust.network/docs/en/build101)**
-
+Check out the **[Decentralized Storage Market](https://wiki.crust.network/docs/en/DSM)** and **[Cross-chain Storage Solution](https://wiki.crust.network/docs/en/buildCrossChainSolution#ii-native-ipfs-integration)** offered by Crust Network. Also, you can start building with **[Crust Build-101](https://wiki.crust.network/docs/en/build101)**.
 :::
 
 ## Crust Storage Helpers
 
-- [Crust Files](https://crustfiles.io): Built by the Crust community, Crust Files is first web3 personal cloud storage that supports multi-web3 wallet login and provides fully decentralized and privacy storage function for all web3 users.
+- [Crust Files](https://crustfiles.io): Built by the Crust community, Crust Files is the first personal cloud storage for web3 that supports multi-web3 wallet login and provides fully decentralized and privacy storage function for all users.
 - [IPFS W3Auth Gateway](https://docs.ipfs.tech/concepts/ipfs-gateway/#authenticated-gateways): A web3 authenticated IPFS gateway that supports all the IPFS *WRITE* functions and helps users upload files or host content after passing the W3Auth verification.
 - [IPFS W3Auth Pinning Service](https://wiki.crust.network/docs/en/buildIPFSW3AuthPin): A standard IPFS pinning service with web3 authentication that allows users to access Crust storage resources without needing to interact with the Crust blockchain.
 - [Crust Github Action](https://github.com/marketplace/actions/crust-ipfs-pin): A standard Github action which can include fully decentralized CI/CD hosting with Crust.
